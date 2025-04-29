@@ -1,0 +1,663 @@
+{
+   "checksum": "34bc1429f354f618b1f20316df6c0ad8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13236602163115585",
+            "date_last_used": "0",
+            "guid": "9370a830-3bf5-4f6c-9f25-220878b2537a",
+            "id": "6",
+            "name": "New tab",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "edge://newtab/",
+            "visit_count": 0
+         }, {
+            "date_added": "13236838907608989",
+            "date_last_used": "0",
+            "guid": "d55e9d5a-e5c3-49fb-be08-dec6c551223a",
+            "id": "7",
+            "name": "uprak_ultah_fauzan (2).pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/fauza/Downloads/uprak_ultah_fauzan%20(2).pdf",
+            "visit_count": 0
+         }, {
+            "date_added": "13237049866166203",
+            "date_last_used": "0",
+            "guid": "2be64773-21f6-41a1-924d-58b06e4bc129",
+            "id": "8",
+            "name": "White chunky sole trainers",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.pullandbear.com/id/man/sale/shoes/see-all/white-chunky-sole-trainers-c1030207044p502192721.html?cS=001",
+            "visit_count": 0
+         }, {
+            "date_added": "13237580938253919",
+            "date_last_used": "0",
+            "guid": "d932066d-988b-40df-a5aa-83b6f1728e59",
+            "id": "9",
+            "name": "Beyond Two Souls CODEX Free Download",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://oceanofgames.com/beyond-two-souls-codex-free-download/",
+            "visit_count": 0
+         }, {
+            "date_added": "13237580960581803",
+            "date_last_used": "0",
+            "guid": "7be4caa6-c3f5-44c7-bcb3-4d6975f99291",
+            "id": "10",
+            "name": "Detroit Become Human CODEX Free Download",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://oceanofgames.com/detroit-become-human-codex-free-download/",
+            "visit_count": 0
+         }, {
+            "date_added": "13237581075205253",
+            "date_last_used": "0",
+            "guid": "cfc2439c-f3ff-4ddd-b3a8-f75d829d0870",
+            "id": "11",
+            "name": "Resident Evil 2 v20191218 incl DLC CODEX Free Download",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://oceanofgames.com/resident-evil-2-v20191218-incl-dlc-codex-free-download/",
+            "visit_count": 0
+         }, {
+            "date_added": "13239342404580521",
+            "date_last_used": "0",
+            "guid": "1ab919df-98ab-4c58-88b5-5402fe2727f3",
+            "id": "12",
+            "name": "Elearning SMK Telkom Jakarta",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://siska.smkteljkt.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13239874224099519",
+            "date_last_used": "0",
+            "guid": "de91c534-e2f7-4f53-99d0-238f37b85c56",
+            "id": "13",
+            "name": "Dark 2017 HD",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www1.moviesjoy.net/tv/dark-38935",
+            "visit_count": 0
+         }, {
+            "date_added": "13240168967604953",
+            "date_last_used": "0",
+            "guid": "a22a89be-441c-4b3b-8965-29f5d240620f",
+            "id": "14",
+            "name": "Contoh Proposal Bisnis Plan Cafe dan Rincian Biaya yang Dibutuhkan",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://carainvestasibisnis.com/contoh-proposal-bisnis-plan-cafe-dan-rincian-biaya-yang-dibutuhkan/",
+            "visit_count": 0
+         }, {
+            "date_added": "13240971092817870",
+            "date_last_used": "0",
+            "guid": "5aa64952-5087-4583-8eaa-813530967ea3",
+            "id": "15",
+            "name": "Call Of Duty Modern Warfare 2 Campaign Remastered Free Download",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://oceanofgames.com/call-of-duty-modern-warfare-2-campaign-remastered-free-download/",
+            "visit_count": 0
+         }, {
+            "date_added": "13242723798662536",
+            "date_last_used": "0",
+            "guid": "c878a62b-1a42-4c37-8020-95a102723266",
+            "id": "16",
+            "name": "MotoGP 20 Junior Team CODEX Free Download",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://oceanofgames.com/motogp-20-junior-team-codex-free-download/",
+            "visit_count": 0
+         }, {
+            "date_added": "13242747387674568",
+            "date_last_used": "0",
+            "guid": "cc37c17c-8d21-4379-b4c1-4bd9273688d8",
+            "id": "17",
+            "name": "Portal Pendaftaran - SMK English Challenge 2020",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://aitisii.com/reg_smk/login.php?s=siswa",
+            "visit_count": 0
+         }, {
+            "date_added": "13243325629104204",
+            "date_last_used": "0",
+            "guid": "6dcaa22d-e841-4c5e-b051-99d0ff71b8b8",
+            "id": "18",
+            "name": "A Beginner's Guide to Back-End Development | Upwork",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.upwork.com/resources/beginners-guide-back-end-development",
+            "visit_count": 0
+         }, {
+            "date_added": "13243761509556953",
+            "date_last_used": "0",
+            "guid": "541fb8bb-6a20-4d15-93d3-fcab55f2c0f5",
+            "id": "19",
+            "name": "Integral Trigonometri - Rumus, Integral Cos, Soal & Pembahasan",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.dosenpendidikan.co.id/integral-trigonometri/",
+            "visit_count": 0
+         }, {
+            "date_added": "13244207712829127",
+            "date_last_used": "0",
+            "guid": "ffc6163c-1ad0-4012-aa90-fdb6718b0e08",
+            "id": "20",
+            "name": "PayPal Payment Gateway Integration in Laravel - Artisans Web",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://artisansweb.net/paypal-payment-gateway-integration-in-laravel/",
+            "visit_count": 0
+         }, {
+            "date_added": "13244214453792923",
+            "date_last_used": "0",
+            "guid": "754fecf9-439b-4927-aa68-6c3db1e30471",
+            "id": "21",
+            "name": "After We Collided (2020) - MoviesJoy",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://moviesjoy.work/after-we-collided-2020/",
+            "visit_count": 0
+         }, {
+            "date_added": "13244214459001786",
+            "date_last_used": "0",
+            "guid": "70096abc-4598-492c-9f9e-8f672198f583",
+            "id": "22",
+            "name": "Cut Throat City (2020) - MoviesJoy",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://moviesjoy.work/cut-throat-city-2020/",
+            "visit_count": 0
+         }, {
+            "date_added": "13244543266802800",
+            "date_last_used": "0",
+            "guid": "7f1abc34-1f65-4405-978a-9f1df442a068",
+            "id": "23",
+            "name": "Testing Guide",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://developer.authorize.net/hello_world/testing_guide/.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13244710625209225",
+            "date_last_used": "0",
+            "guid": "f5cd51ca-9612-4fe7-935c-5c049260af7d",
+            "id": "24",
+            "name": "Katabolisme, Karbohidrat, Lemak, Protein : Pengertian dan Hubungannya | Penjaskes.Co.Id",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://penjaskes.co.id/katabolisme-karbohidrat-lemak-protein-dan-hubungannya/",
+            "visit_count": 0
+         }, {
+            "date_added": "13244710715929687",
+            "date_last_used": "0",
+            "guid": "b87329b8-12fd-4c3b-91c8-f4ad50d8594e",
+            "id": "25",
+            "name": "DNA Dan RNA - Pengertian, Fungsi, Perbedaan, Struktur, Gambar",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.dosenpendidikan.co.id/dna-dan-rna/",
+            "visit_count": 0
+         }, {
+            "date_added": "13245551045547400",
+            "date_last_used": "0",
+            "guid": "39db1846-cefe-4da5-9c9b-02dbbccd18d7",
+            "id": "26",
+            "name": "Dutafilm: Nonton Film Online Subtitle Indonesia Gratis!",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://dutafilm.work/",
+            "visit_count": 0
+         }, {
+            "date_added": "13245760672782494",
+            "date_last_used": "0",
+            "guid": "0f6cba93-3bd4-42c9-a51b-3988daa70106",
+            "id": "27",
+            "name": "Beasiswa Unggulan Kemdikbud untuk Mahasiswa S1, S2, S3 • INDBeasiswa",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://indbeasiswa.com/2020/09/beasiswa-unggulan-berprestasi.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13245771040192102",
+            "date_last_used": "0",
+            "guid": "fe0ecd9a-4ffd-4b95-a8d9-d810686dedde",
+            "id": "28",
+            "name": "MrPcGamer Free PC Games ,Crack ONLINE , RePack Games, VR Game",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.mrpcgamer.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13249369882834950",
+            "date_last_used": "0",
+            "guid": "b79cced4-f2be-4eae-9d2a-f866d652277b",
+            "id": "29",
+            "name": "pki madiun dipimpin oleh - Penelusuran Google",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com/search?safe=strict&sxsrf=ALeKk003xKxRTTj3ck1LXluzfihh4yFDtw%3A1604896235321&ei=68WoX6zyEom6rQHjnbWQBQ&q=pki+madiun+dipimpin+oleh&oq=pki+madiun+d&gs_lcp=CgZwc3ktYWIQARgAMgIIADICCAAyAggAMgIIADICCAAyBQgAEMsBMgIIADICCAAyAggAMgIIADoECAAQR1DwFFj3FWDgGmgAcAN4AIABOogBbZIBATKYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&sclient=psy-ab",
+            "visit_count": 0
+         }, {
+            "date_added": "13249494734945756",
+            "date_last_used": "0",
+            "guid": "04b806d3-2245-47f8-8b5a-e1249e82e31e",
+            "id": "30",
+            "name": "IDLIX - Streaming Film dan TV Series Subtitle Indonesia",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://185.231.223.71/",
+            "visit_count": 0
+         }, {
+            "date_added": "13250874527384129",
+            "date_last_used": "0",
+            "guid": "572346a9-a69f-4d50-8c43-6826d28bdbf4",
+            "id": "31",
+            "name": "Kevin Hart: Zero F**ks Given (2020) - Nomat",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://nontonhemat.id/kevin-hart-zero-fks-given-2020/",
+            "visit_count": 0
+         }, {
+            "date_added": "13250874541136032",
+            "date_last_used": "0",
+            "guid": "9bc61271-d77a-4f63-b258-867c4b4c1199",
+            "id": "32",
+            "name": "Nonton Hemat - Nomat",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://nontonhemat.id/",
+            "visit_count": 0
+         }, {
+            "date_added": "13251373098825462",
+            "date_last_used": "0",
+            "guid": "ea5e54a0-9585-4192-959c-708d428c7e71",
+            "id": "33",
+            "name": "MEDAN MAGNET KAWAT LURUS - Quizizz",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://quizizz.com/admin/quiz/5dd32076d74669001d20341c/medan-magnet-kawat-lurus",
+            "visit_count": 0
+         }, {
+            "date_added": "13251518153245132",
+            "date_last_used": "0",
+            "guid": "7d725964-3239-46d6-8898-9713fa224401",
+            "id": "34",
+            "name": "Prinsip penyederhanaan dari sesuatu yang kompleks dengan cara memodelkan kelas sesuai dengan masalahnya adalah.....",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://cmaryadi.blogspot.com/2015/05/soal-jawab-tentang-java.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13251963308232812",
+            "date_last_used": "0",
+            "guid": "916e67c7-4b07-4428-bb90-d65230f1bcaf",
+            "id": "35",
+            "name": "Quiz PBO-1",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://siska.smkteljkt.com/mod/quiz/attempt.php?attempt=134610&cmid=1326&page=9",
+            "visit_count": 0
+         }, {
+            "date_added": "13254059435612616",
+            "date_last_used": "0",
+            "guid": "a16d02d6-87fd-46ae-8cff-6411c7a022e2",
+            "id": "36",
+            "name": "LK21 IndoXXI | Bioskop LayarKaca21 Online, NontonMovie CinemaIndo FILMAPIK",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://lk21indoxxi.net/",
+            "visit_count": 0
+         }, {
+            "date_added": "13254207726807942",
+            "date_last_used": "0",
+            "guid": "eb68d8a7-20f8-45c8-9a5d-32497191a6b2",
+            "id": "37",
+            "name": "Soal PBO RPL [+Kunci Jawaban] 2020",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.fivser.com/2020/04/soal-pbo-rpl.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13256885300953733",
+            "date_last_used": "0",
+            "guid": "23d3f187-c296-4b6a-ae48-4174ec1283d9",
+            "id": "38",
+            "name": "Pangkalan Data Sekolah Siswa",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://pdss.ltmpt.ac.id/student/list",
+            "visit_count": 0
+         }, {
+            "date_added": "13257221798359554",
+            "date_last_used": "0",
+            "guid": "78801505-9606-4423-909c-d87e8ee28f34",
+            "id": "39",
+            "name": "Daftar Hadir Mata Pelajaran Matematika",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSf9kgSMgeQNC52JjKI515oGEP_V3HvqnJpvh-NrbJre3wWRdg/viewform",
+            "visit_count": 0
+         }, {
+            "date_added": "13258310533479459",
+            "date_last_used": "0",
+            "guid": "735eb192-b69e-4e5a-b864-6105e0241a2a",
+            "id": "40",
+            "name": "Nonton Film Streaming Movie Layarkaca21 Lk 21 Dunia 21 Bioskop Cinema 21 Box Office Subtitle Indonesia Gratis Online Download - Layarkaca21",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://149.56.24.226/",
+            "visit_count": 0
+         }, {
+            "date_added": "13258310549131497",
+            "date_last_used": "0",
+            "guid": "f7091594-ad01-4fdf-bb07-99062c951f1e",
+            "id": "41",
+            "name": "Nonton Movie Layar Cinema iLK21 | INDOXXI Film Bioskop Terbaru Layarkaca 21 LK21",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://213.166.69.166/",
+            "visit_count": 0
+         }, {
+            "date_added": "13260105279225800",
+            "date_last_used": "0",
+            "guid": "b94b04a4-e150-459a-b97e-29a7075ebaad",
+            "id": "42",
+            "name": "Tata Nama Senyawa Alkena | idschool",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://idschool.net/sma/tata-nama-senyawa-alkena/",
+            "visit_count": 0
+         }, {
+            "date_added": "13260105826063658",
+            "date_last_used": "0",
+            "guid": "7d327a0e-c143-4256-9bd5-850c07719004",
+            "id": "43",
+            "name": "Polimer | lucyanitri",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://lucyanitri.wordpress.com/materi-kimia-kelas-xii/polimer/",
+            "visit_count": 0
+         }, {
+            "date_added": "13260105831950556",
+            "date_last_used": "0",
+            "guid": "856de614-27bc-48ae-a225-d0418cc8c156",
+            "id": "44",
+            "name": "Contoh Polimer sintetis atau polimer buatan | ardra.biz",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ardra.biz/topik/contoh-polimer-sintetis-atau-polimer-buatan/#:~:text=Polimer%20sintetis%20meliputi%20plastik%2C%20karet,SBR%2C%20nilon%2C%20dan%20tetoron.",
+            "visit_count": 0
+         }, {
+            "date_added": "13261155441995077",
+            "date_last_used": "0",
+            "guid": "011295d0-8595-42ff-8cda-48b091c98165",
+            "id": "45",
+            "name": "Pemograman Berbasis Objek",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSeIer7gUUU-6xPcidYEyhpVFmCY3GuL48nDP46Z8D3HhhGWIQ/viewscore?viewscore=AE0zAgBzhDscR6xIAFz9vCqElwNiLPhFdU04SoLOA9qVesmCTvuMkU5-cR4pFqJyQ1E6LLY",
+            "visit_count": 0
+         }, {
+            "date_added": "13261156743917383",
+            "date_last_used": "0",
+            "guid": "d7b4eff0-9ec4-45bb-a75d-1a738243082f",
+            "id": "46",
+            "name": "soal & jawaban: mata kuliah : pemodelan sistem berbasis objek - kongkow",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://tanah-gw.blogspot.com/2014/05/soal-jawaban-perancangan-sistem_28.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13261158034788383",
+            "date_last_used": "0",
+            "guid": "c4085dd7-9341-4d10-b0eb-a7aa943733fe",
+            "id": "47",
+            "name": "Metadata | Belajar Bersama",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://tentang-semua.blogspot.com/2012/10/metadata.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13261158526685654",
+            "date_last_used": "0",
+            "guid": "d047aaef-5e72-4d38-be99-a81ba67b7cb9",
+            "id": "48",
+            "name": "04-metatha-buletin.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/fauza/Downloads/Documents/04-metatha-buletin.pdf",
+            "visit_count": 0
+         }, {
+            "date_added": "13261158780146115",
+            "date_last_used": "0",
+            "guid": "5325229e-1d93-43d4-a18d-ef74f57ade16",
+            "id": "49",
+            "name": "Pemodelan Perangkat Lunak",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSfL34Mnn-Ltj0cjGy5744_ytIu0O4MTDjcczjzcsWS60oHsbw/viewscore?viewscore=AE0zAgCd5eAW0kM5yj4KX-yjvp-BkaR6RgngfE6If_z1zEbQFfthV3p8R4ldR87yggeSJsA",
+            "visit_count": 0
+         }, {
+            "date_added": "13261194081095167",
+            "date_last_used": "0",
+            "guid": "3e583c97-5032-4127-9e9f-00cf60115e8c",
+            "id": "50",
+            "name": "Pemodelan Perangkat Lunak",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSfL34Mnn-Ltj0cjGy5744_ytIu0O4MTDjcczjzcsWS60oHsbw/viewscore?viewscore=AE0zAgB5B0HLUTByvSXychP88n6yVsIwRCtL4sdeYkdPTCj0kLBqlrRafsJLPzbmzkYEruA",
+            "visit_count": 0
+         }, {
+            "date_added": "13261587902054844",
+            "date_last_used": "0",
+            "guid": "54b1cd63-0494-4f64-988d-483a68b0d9c6",
+            "id": "51",
+            "name": "40. Sebatang besi pada suhu 127ºC memancarkan energy dengan laju 40W. Pada suhu 327 ºC batang besi yg sama akan memancarkan energy dengan laju",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com/search?q=deteksi+penyakit+tumor+dengan+sinar+mikro&oq=deteksi+penyakit+tumor+dengan+sinar+mikro&aqs=edge..69i64.12060j0j4&sourceid=chrome&ie=UTF-8",
+            "visit_count": 0
+         }, {
+            "date_added": "13265979695547558",
+            "date_last_used": "0",
+            "guid": "37133bed-ad38-4e35-8e3b-004a84456fae",
+            "id": "52",
+            "name": "Nonton Love, Death & Robots (2019) - Subtitle Indonesia - IDLIX",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://185.231.223.71/tvseries/love-death-robots-2019/",
+            "visit_count": 0
+         }, {
+            "date_added": "13269448737307148",
+            "date_last_used": "0",
+            "guid": "d6a2629e-ba33-41cc-9ca1-7d94e003303e",
+            "id": "53",
+            "name": "inter",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://smb.telkomuniversity.ac.id/biaya-pendidikan-2/biaya-pendidikan-reguler/",
+            "visit_count": 0
+         }, {
+            "date_added": "13275418377784781",
+            "date_last_used": "0",
+            "guid": "5a474ac4-a7e4-4e42-9ce6-34be0cf64de4",
+            "id": "54",
+            "name": "PENUGASAN INDIVIDU.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/fauza/Downloads/Line/PENUGASAN%20INDIVIDU.pdf",
+            "visit_count": 0
+         }, {
+            "date_added": "13350666160403821",
+            "date_last_used": "0",
+            "guid": "312d48bc-ecbd-43d6-8bbc-6869be25ca58",
+            "id": "55",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Firmware Stb Xlhome Ax810 Advan At01 - root atau flash stb android",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.jasarootstbandroid.com/2024/01/firmware-stb-xlhome-ax810-advan-at01.html",
+            "visit_count": 0
+         }, {
+            "date_added": "13350738614618834",
+            "date_last_used": "0",
+            "guid": "c5697f1f-f103-418c-ad9f-1d0fd0a2c5a6",
+            "id": "56",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Modul Praktikum Alpro IF.pdf",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "file:///C:/Users/user/Downloads/Modul%20Praktikum%20Alpro%20IF.pdf",
+            "visit_count": 0
+         }, {
+            "date_added": "13351335229799570",
+            "date_last_used": "0",
+            "guid": "792b2365-0fbf-485d-9bf9-1ed5876aa890",
+            "id": "57",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Laporan Bulanan MBKM Rev01.docx",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://telkomuniversityofficial-my.sharepoint.com/:w:/g/personal/kampusmerdeka_telkomuniversity_ac_id/Efgca9MUt4xLhTVMYBmqAOQBoxmHh7XZVa1EPcFJvmJxVQ?e=tjaeJ9",
+            "visit_count": 0
+         }, {
+            "date_added": "13351335232775343",
+            "date_last_used": "0",
+            "guid": "a4a7d515-c303-44a9-b9f2-30a58fc96b3e",
+            "id": "58",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Logbook Mingguan Dan Upload Laporan Bulanan Peserta MBKM Semester Genap 2023/2024",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=D_6vkKPCCEG7mGzrTpTvFYvboZqzq89KorRskL_gfBVUMUNFVFUxTjE3RDk5ODFFOEFSTTE1S0NWQS4u",
+            "visit_count": 0
+         }, {
+            "date_added": "13351335236865062",
+            "date_last_used": "0",
+            "guid": "c6ff04a9-75f3-4e7b-9ca1-db56cf5e9174",
+            "id": "59",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "[share mhs] Peserta MSIB 6 + Progress Logbook.xlsx",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://telkomuniversityofficial-my.sharepoint.com/:x:/g/personal/kampusmerdeka_telkomuniversity_ac_id/EWc3H4TvdaBApAVc3625iVkBgPZh2Ajmg_DcMxnS5L2Rhw?e=13lFPc",
+            "visit_count": 0
+         }, {
+            "date_added": "13351702899278378",
+            "date_last_used": "0",
+            "guid": "a73be749-e5e2-449c-9e80-60ffc8203ac4",
+            "id": "60",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Bangkit 2024 Batch 1 - Students Welcome Kit - Google Docs",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1jo-GSK8E8JyzNKs2jdAJ3Bp7REnysXZkrSOqnCRl8Lc/edit",
+            "visit_count": 0
+         } ],
+         "date_added": "13389259075396789",
+         "date_last_used": "0",
+         "date_modified": "13351702899278378",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favourites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13389259075396793",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favourites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13389259075396796",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favourites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCI4KTT2WAQAAKg4QABgBIAAoBjAAOABAABIAKhhoYkhxUUVBOC9wcU1QaWdlaWcveGRBPT1IA6AGDBK1AQg8ErABChwvd2xwVXhBcUo3VElkRDBlaXNYVDVBZUhCK2s9EiRhNzNiZTc0OS1lNWUyLTQ0OWMtOWU4MC02MGZmYzgyMDNhYzQYACAAKAAwrp2v9tcxOKGfr/bXMUChn6/21zFKHEdCZUlsbGJIdnUvdElOSm53eW1QeFczRVpuST1aJyIl/////wAAAAb9V3RxRUx6K0ZFQ0JQOGh2OU1NMUJHUmFaakhNPWU5xrawwj4CYAUStQEIOxKwAQocWmJGU2NhY3o3OWRUQ0FvcjZvVVlQRjROc2VjPRIkYzZmZjA0YTktNzVmMy00ZTdiLTljYTEtZGI1NmNmNWU5MTc0GAAgACgAMOTqhsfWMTiU7IbH1jFAlOyGx9YxShwvaFIxRjZOTDNxU3BOYjRFTmtMZ3kyY1BBRXc9WiciJf////8AAAAG+3laY1VHRE5naElHQXd2cjBnMnNsOGlQQnhNOD1lfiC278I+AmAFErUBCDkSsAEKHENBZ1FFUjA4VFRBbXdpdkE2czBMUkwrSTV1WT0SJDc5MmIyMzY1LTBmYmYtNDg1ZC05YmY5LTFlZDU4NzZhYTg5MBgAIAAoADCds4bH1jE4kLWGx9YxQJC1hsfWMUocYXU2NUJkVUZnQ3FqMXB5MzRoekRrYkk1RlVFPVonIiX/////AAAABu1ESyszNDRXUFY1QTVMY3J6a0hzMGFzRmI0a1E9ZcHLpcrCPgJgBRK1AQg4ErABChxJZjd5RWUzUjE3b0hGa0lLVUJnc0ZLcGhPaFE9EiRjNTY5N2YxZi1mMTAzLTQxOGMtYWQ5Zi0xZDBmZDBhMmM1YTYYACAAKAAw79Xk99UxOM/c5PfVMUDP3OT31TFKHHZWTzlRVDZWN3RNVUdYa1hWcmlMcnJ3NW11VT1aJyIl/////wAAAAbbOENzSVR4c3RkZEtmZ0l0TEU5dHV4cTVmQVRjPWV3cGyjwj4CYAUStQEIMxKwAQocTHBhS3IvNTBRNlRSdCtGUmFmNFREZEMranlFPRIkNTRiMWNkNjMtMDQ5NC00ZjY0LTk4OGQtNDgzYTY4YjBkOWM2GAAgACgAMOyEmZyILziWyfjE5y9Alsn4xOcvShx2YUZacU1neFordTlGMDR0NlVTY0JoaGM4Qlk9WiciJf////8AAAAF/WFvejc4U2pDV2RlV1lKVEtpWUhEblFpUHdQVT1lEDD/5MI+AmAFErUBCDISsAEKHCtiRUJzNUlUdnVjREZjbjJOb0NxMnBQMWVuYz0SJDNlNTgzYzk3LTUwMzItNDEyNy05ZTlmLTAwY2Y2MDExNWU4YxgAIAAoADDdi7Pghi84nMf4xOcvQJzH+MTnL0ocMlhTa2xqM1hsYXkvU3Bjem15RW1wYzlNeXpBPVonIiX/////AAAABftBOWkzZERtcmpRN3JZZVNhTU9ZRjlUQXpsNGc9ZaOtHF/CPgJgBRK1AQgxErABChxDRCtqT1k0MUJEenRKb3JKOWdDNkM4d1hXVGM9EiQ1MzI1MjI5ZS0xZDkzLTQzZDQtYTE4ZC1lZjc0ZjU3YWRlMTYYACAAKAAwp9Cm0YYvOK/G+MTnL0CvxvjE5y9KHHdvS2VCZmsxZ3YzYmduWVF4M0E0aXg3UEtSRT1aJyIl/////wAAAAX2OGREbHRsSm5SZ3V2eGpNbm9lS0tTMkEzRWRjPWUAAAAAwj4CYAUStQEILhKwAQocRHlpM2paWW81aGxYUWlPaWRwUlRuOWt2a3hjPRIkZDdiNGVmZjAtOWVjNC00NWJiLWE3NWQtMWE3MzgyNDMwODJmGAAgACgAMOOdzM6GLzi4w/jE5y9AuMP4xOcvShxDOCtZa2tHMDk3T3NIWklrN1U0VUhqenVlOXc9WiciJf////8AAAAFtEgwK0ZGMzJ1ZE1UNDIrOVhTSHlQdnBFcFFGaz1l+uj/GMI+AmAFErQBCC0SrwEKHFhJV3NzOURQY3k1RWw1d0U1Nmw5K2p5ZnlHST0SJDAxMTI5NWQwLTg1OTUtNDJmZi04Y2RhLTQ4YjA5MWM5ODE2NRgAIAAoADDK4PzNhi84ysL4xOcvQMrC+MTnL0ocY1FEb2Fxa0Rob0tGQ09mdXBienQrZXZpOEtFPVomIiT/////AAAABWk2ZGJTU2VnWG15K3hEZjZVd0ord3FBc2lHTT1lo60cX8I+AmAFEq4BCA8SqQEKHHl4VEIzS1NGencxMEh5bXRCbzlqb1kvV1Y5Zz0SJGViMjQyZjA3LTcyMzgtNDI2My04Nzg5LTk0MzVjMTMwN2IwYRgAIAAoADDJ/6m1uy44qvj3xOcvQKr498TnL0ocUHUrckpuM2lXeHlPTytrYkxiVVZGQitxL3pnPVogIh7/7XZJU3BCMlI2N2JIK2hBSHlnUFQ3S1MzanZ3Zz1lWJczpMI+AmAFEq8BCBcSqgEKHGVFU1V6bjVIMFlQSVRNamUzMDlaS3VTTTRVcz0SJGYwYmE3ZTc3LWIwZmYtNGUyNC05MTgxLTA3YWU0MGVjM2I5MBgAIAAoADCC4+SD9i44z6b4xOcvQM+m+MTnL0ocL2U4MVE1VEZEZ1dGK2kwYkhjZzRNdUJBNXJZPVohIh///+hDd28wSWNqN0dYV2YycnFKZFlXbzdtSVA0VHM9ZcAoC0bCPgJgBRK1AQgmErABChwxb0Z1VVZ1L2QrMVNBT29HSEFNODF4YmxOUlU9EiQyM2QzZjE4Ny1jMjk2LTRiNmEtYWU0OC00MTc0ZWMxMjgzZDkYACAAKAAwjpLo2fYuOKqo+MTnL0CqqPjE5y9KHGoyS0FTSC94OUFtOSt5Y092WXFTelRWNWdrUT1aJyIl/////wAAAAS9Q0gwSHZhVTQ0NWRIOGZ1a2pleXpyNnNXOGQ4PWUAAAAAwj4CYAUStAEIJRKvAQocY2xBdjhiZHBCUUtndHZjbnFBMVRUNGpvQXQ0PRIkMWI2NTMxNjgtOTZkYy00OGUxLThhNjUtZjI4YTRjM2E4ZTJkGAAgACgAMNXxhd3sLjiKo/jE5y9AiqP4xOcvShxGV1NlcXBnUGpNSVkvMVdVMUdrSTI2SXFaR2c9WiYiJP////8AAAAEemNPVndualJvcWx3bmFXTC94NnlOSFV0R3VVPWXMBwZjwj4CYAUSsAEIIhKrAQocVHRtanJ4VUJyNzArOXN4bUVKdFVHb0dnVGE0PRIkOTU0YzdlNGEtOWJhOS00Y2E1LTkxNzQtZDljNGQzMjM2MzhkGAAgACgAMKXMgN3sLjiNovjE5y9AjaL4xOcvShxHbFVpSlRaWnlSVVcyMW9DaEh1MkEzb0JZTHM9WiIiIP////wzS2R0MHhYanNqSjdOTDV5ZGZURWhIMXBhclE9Zfro/xjCPgJgBRK0AQg2Eq8BChxuMmYycGFXUEhXWmoxajdaL0o2R2ZOYXN1Q3c9EiQ1YTQ3NGFjNC1hN2U0LTRlNDItOWNlNi0zNGJlMGNmNjRkZTQYACAAKAAwssGJ37svOKn6+sTnL0Cp+vrE5y9KHEhwOGFweXgzNUIzVlJqc3Y2OGlOcmZnWXBZUT1aJiIk/////wAAAAZvMXBnTkhJZlBYNktJU2dCTjVVdmt5SW1YM3c9ZXdwbKPCPgJgBRKwAQghEqsBChwrQUdUS0EwcThnRE4yYSswNWc3VzNsRzFOc2s9EiQxNDdjYzQ1OC0zM2FlLTQ2MzMtYTk1Mi02OWIxYjFjMGQ3NDYYACAAKAAw7a6yleIuOP+b+MTnL0D/m/jE5y9KHER4YzVpalJEMUdGU1hsV1psNldZeStNcStMdz1aIiIg////+TlVR2U3ektaUEdlWGV2NlFNSjZQVmFUVVBYYz1l67jNcsI+AmAFErUBCDcSsAEKHHFUNjM2K2xBRHVrYzVOQnpaQ1dWdXphUlJQTT0SJDMxMmQ0OGJjLWVjYmQtNDNkNi04YmJjLTY4NjliZTI1Y2E1OBgAIAAoADDw1eT31TE49tzk99UxQPbc5PfVMUocTk9xdzV6L2lURHcwOVFlemJ0WWJYR0VwbnBjPVonIiX/////AAAABrdWdDZ3ZUFXelNzMlFOVThPNVp1N1pmZlgyVkk9ZQZfzw7CPgJgBRK1AQgoErABChxXcnJ5ODU0TkIvRUJ6WnNqRHB3bzlZWkR0MVU9EiQ3MzVlYjE5Mi1iNjllLTRlNWEtYjg2NC02MTA1ZTAyNDFhMmEYACAAKAAwsJuiqfwuOJe0+MTnL0CXtPjE5y9KHFJDVURIRXIwVWNycGp0UmNxMnRTaXc4UzRnQT1aJyIl/////wAAAATvZEZNV1NzMkNlUEdoU3RhbEo2NGdDLzg0R2wwPWXvirB1wj4CYAUStQEILBKwAQocOG53YU1mZmdISGNBTUZGUkZJazR5UGQzYWpjPRIkODU2ZGU2MTQtMjdiYy00OGFlLWEyMjUtZDA0MThjYzhjMTU2GAAgACgAMNTuvdmCLzjZuPjE5y9A2bj4xOcvShxjUkc2blEzRkpDd1ZoR2VVRk1Hem1uU1lINE09WiciJf////8AAAAE/jNvRkJ5aHJCNGMvdUxlK2JRTVkwRXFRU1p0Yz1lAAAAAMI+AmAFErABCCASqwEKHDFub0lkQ25SdWtjeTJObGFZbUdZbmxZQlZ4WT0SJGU0MjIwMjEyLWQwNDItNDYxNC1hYjJjLTQxN2Y4NTc1NGQzZRgAIAAoADDewdSn4C44+JP4xOcvQPiT+MTnL0ocWkN0RE9GM0tJU1V4Q0tyZi9TYXBoVUltRVA4PVoiIiD////yOEIxQ1JoQWkrWnZ3bG9ma2F0R2dQK0FxV0tzPWWnWGY1wj4CYAUSsAEIHxKrAQocMHR3VGVZcUlNbjNUUXVFM1ZlUjV0OFRxaitNPRIkN2VlOGJhNTMtZmM5Ni00ODM2LWI3M2EtN2UyNGNhYThmMTY5GAAgACgAMObr06fgLji8kvjE5y9AvJL4xOcvShx1eERML3VQaWhnYzQrcGVXWW42dFJVQnJRRXM9WiIiIP///+VsZk9rd3RGRFFieDk2S3BUU3A1ekIzanVmTTg9ZadYZjXCPgJgBRKwAQgeEqsBChxseVNwdFQvR1huTGxVZXZ5NEdRaDVJazNMalk9EiRiYzI1YTk0Yi1iOGE0LTQ5YzAtOWIwNy1jN2Q4NGQwODk5Y2QYACAAKAAwhLTcldsuONWP+MTnL0DVj/jE5y9KHFgwYkF1dmM0RGtyc25QMjc5QzNXWGlYZ0RYND1aIiIg////y3BuRDlJbnBKSVkrRFU1SmJ4UmtGeU1zQXBldz1lLS7KIMI+AmAFEq8BCBsSqgEKHGV2Vk12U252U1lEcU5rY2U0dHRSREVMbU0rZz0SJGQwYWIyMWVjLWM4OGItNDc4MC1iMmUzLTQyZGIzYWFlZGJkNhgAIAAoADC16ZahzS445f/3xOcvQOX/98TnL0ocTEk3ZlcwNWZBN0NRNCs5ZTRHb1VHWHhJVnRVPVohIh////5VM2hBVXkxcWtobjdBY2oweEZ1emhHOS9JS1E9ZRbH+4TCPgJgBRKwAQgjEqsBChx4ZmdkL1ZFcW4wZlJoSlVzZEtBVmdSemhzc1U9EiQwODg4YTI3MC1iNzdjLTQwZWQtOWMxNC1hM2I3MjQ0MDY1ZGIYACAAKAAwldnQ9YIvOMa5+MTnL0DGufjE5y9KHG9lVjBsbitDN2Y1Mnp0ZzFBYVgwSmg1aWdpaz1aIiIg/////nY2c2paRlI1aTZBMThkUmhwcjIwZjRGVE4wOD1l7hLGmsI+AmAFEq8BCBoSqgEKHCtYU0k3V1RwdjU4TUNWQXdoU01tNm1lcTJrcz0SJDAyYWY5NjljLTEwZDEtNGM1Yi04MjM2LWVmMzJhZDhiN2VjMhgAIAAoADDgr42S+S44nK34xOcvQJyt+MTnL0ocWDFSMEdNenZSN0hvakZCa2d1Q3YzeTc5YkNnPVohIh////1xOWRPSlVkWEkvc2pQRnNWeUVyUnRHSzY3REk9ZdGie9/CPgJgBRKuAQgTEqkBChxEM0J3emFremZKOENBOUZPdTlnQXU2YjN3Z1E9EiRkYzRhZmFhNC1kMGE3LTQxMmQtOTdhNS04ZGRiODkzZDhiMzEYACAAKAAwh76+zYUvOJy9+MTnL0CcvfjE5y9KHHJIYjdxakpyNGVSZTNDWkNnTk1nWVNYclVKcz1aICIe//4vbXliQmJZTlh4WlJOZWN6MFBTQWZGckdvSzg9ZU+Lf7PCPgJgBRK1AQgqErABChwwVHY3N2FETnBLUHVuSkJYNkIxZ0JwRENXTGM9EiRiOTRiMDRhNC1lMTUwLTQ1OWEtYjk3ZS0yOWE3MDc1ZWJhYWQYACAAKAAw9pCc2YIvOO62+MTnL0DutvjE5y9KHEhCc1djNFluZ0Q1VHdMTTUrb3VHLys0OGpCQT1aJyIl/////wAAAAT7VVV4YndvSkdMSVdVaVduRGpsU3Mvb2psd2pZPWUAAAAAwj4CYAUSrgEIEhKpAQocT205QUprYXlONmExVzgzT2krMjVpNG1UT2hVPRIkZjNlOTg1ODQtMjBiMC00YTlkLTk0NzMtZmIzZmY0MmVhYjRjGAAgACgAML+/h5jELjiR+/fE5y9Akfv3xOcvShwyb2Q0YVJOc0dpQVUzZFlYcmxEY0poMy9sRlk9WiAiHv/9bTBzaEI2ekd4dTk5LzYwK3NkUG5aMkFnV0lRPWUduQn7wj4CYAUSrwEIFhKqAQocM2tlUU4xRlFQNWZuRm81VEUzTDJRNUNYRXhVPRIkOGIwM2UxNjctMzhkOS00YjE5LTg4NzUtMzc2ZGVmYjk0ZTNhGAAgACgAMKG68b/HLjjq/ffE5y9A6v33xOcvShw1VUJPQnhQdXBuMEZWamdaVDA4MDhjam8wT0k9WiEiH///0HBiWVVSWG50VGlUY1hteUFvQWxKR2tRVU1JND1l/aU8D8I+AmAFEq4BCBASqQEKHCszYlJHZGFpU0djaFhSdFVOR2F5ZlE4eWRMaz0SJGE1MDliMGE2LTg4ZmUtNDg3MS1hMjM0LTU2N2I0MDI0OWI5ZhgAIAAoADD73Yr5wS44p/n3xOcvQKf598TnL0ocdG54OXJkWnBneUZPbitZcDQ4ZU9MNkppV3E4PVogIh7/9kFFZExXSnJWb1dXcG1TMmpsNXFaREFiTjEzRT1lWJczpMI+AmAFErUBCCsSsAEKHDdyOFR6VzQvV0xod1ZxRWlNcldFNVpycW43RT0SJDdkMzI3YTBlLWMxNDMtNDI1Ni05YmQ1LTg1MGMwNzcxOTAwNBgAIAAoADD9wb3Zgi843Lf4xOcvQNy3+MTnL0ocK1BTMWg3MTRFaXNNTzB1ZWZPNi9iRTlwY1VnPVonIiX/////AAAABP1DdHoyWmJpSWw2SGNGS3hnTHhkNmdSZGlscUU9ZcapwQDCPgJgBRKtAQgIEqgBChxpUlJzQ1VaL1RtYlRsVjRpL21xb0Vjb0UwRms9EiQyZmI1Y2EzNS0xYWZiLTQ5ODUtOGQ2OC0wOTQ1Y2ZkZjQ3OGYYACAAKAAwuKzF56wuOMbv98TnL0DG7/fE5y9KHGt3WXF6Y1IvZzBKR21yOEFidDFqNXlDc0Uzdz1aHyIdu040SXk1YlNkRW5MellrQVpEM0dlRWtlVnBSWT1lAAAAAMI+AmAFEq8BCBUSqgEKHDByc0w3ZXVjdGxIZHREWGFCTTNTVys3OUY2QT0SJDAzMmYwZjcyLTQzZmItNGQ2YS04NzUyLTBmNTQxNDk0MmIxNRgAIAAoADDpjfG/xy447Pz3xOcvQOz898TnL0occkZTQmdzOWorQ2pxY3Z2dWgvSHNtYUt5TDlZPVohIh///6E5VStQQmZPd1NCZllSSm5UaUxWSDhrNllHVkk9Zf2lPA/CPgJgBRK1AQgnErABChxYU3BxbTFhK2owbmp4bjZGU1U2NG02cXBsOWc9EiQ3ODgwMTUwNS05NjA2LTQ0MjMtOTA5Yy1kODdlOGVlMjhmMzQYACAAKAAw25ui+vcuOKGr+MTnL0Chq/jE5y9KHHhyR2tUZ2EwWWVhRXlPTXh0ZjNFU2p6K0VVdz1aJyIl/////wAAAATeUE5LeUtydnQ0SVgzTzZuZEltd1psTTFPVnM0PWWjrRxfwj4CYAUSrwEIGRKqAQocT2o5eXZObHRTTmFaK0xlK1ZRUkM2U1VQUXVvPRIkMmMwNzBiODItMzM4YS00ZjZhLTg0NDAtOWQ4Yzk1MTljMmJlGAAgACgAMIa+vs2FLzifvPjE5y9An7z4xOcvShxkUGthVFcrd0dwNk9XaVo5ejV1em1yb1JmOFk9WiEiH///+nVuM3pzOUl5WURhR3NoWmluZUF2Ujg1aTZMST1lT4t/s8I+AmAFErUBCC8SsAEKHGwyOGFVYlQ1ZFp4azRFKzBVdEkySE95S1ZZTT0SJGM0MDg1ZGQ3LTkzNDEtNGQxMC1iMGViLWE3YWE5NDM3MzNmZRgAIAAoADCsgZvPhi84tcT4xOcvQLXE+MTnL0ocTjVITmtOZ3k0VzhxUU8wSkV2bk85MmxXdXI0PVonIiX/////AAAABdpSMzd4aElWcXVBVjVZc1VmMGt6K0piL1huY0k9Zfro/xjCPgJgBRKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRmMDhiMGE2My0xZjY0LTU5MjktODMzNi0wZTNjY2NiMDkyYTgYACAAKAAwyoKmyqguOPDr98TnL0Dw6/fE5y9KHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAASrgEIDhKpAQocTlNWb2ZjMVBucTQrNzRCeG1nQWhabHUxdHE0PRIkZTQ1MTEzN2YtYjc0My00OTM3LWFmNTQtM2E5OTg2OTdkMjYyGAAgACgAMN6d7La4Lji89/fE5y9AvPf3xOcvShxaMDBxR3FFdlhabDhKd0hyZ2Y2UU8xU2JaYnc9WiAiHv/aVjEwSlFNUEJVTjhTZ2F0ZExBemRWS0RwMlBBPWVSgEPQwj4CYAUStQEIMBKwAQoccVJINCtISExFRDZSandwU2hlNTAvSVFSRG93PRIkZDA0N2FhZWYtNWU3Mi00ZDM4LWJlOTktYTgxYmE2N2I3Y2I5GAAgACgAMLmEuc+GLziixfjE5y9AosX4xOcvShxnaWJRTmNaVW5UbXlKT255OFl0YXhQUkVZcVk9WiciJf////8AAAAF7XJlTCtZN25CaVpkcUNscThLc29VNE53SlJ5az1ld3Bso8I+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDRmNzBlMTBkLTcwMzAtNTgyOC05YjhmLTQwNWNkMWZhZjdjYhgAIAAoADDFgqbKqC44jOj3xOcvQIzo98TnL0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRkMDUxNmM1MS1jNzRkLTU1M2MtOGYwZC0xZDA3NWVhNWYwMGQYACAAKAAwxoKmyqguOInp98TnL0CJ6ffE5y9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASrQEICxKoAQoccUFFYy9tK3ZQQUJrSC9iS1BZd1JYakNyellZPRIkYTVkNzZmMzYtMzU2My00ZDdhLTk1ZjAtODBhYmMyZDBlNDc3GAAgACgAMJj13KiBMDjA4ffE5y9AwOH3xOcvShw4ZEx3b0RYa0g4VjcrUk9iOGErV3ZpaGpHV0k9Wh8iHfdhZFp1VUx1TkhxY0RLbFdtS3Q1b0J3Rzl4TkU9ZViXM6TCPgJgBRKtAQgMEqgBChxvSHNjV0hrQ05hMzBvK0dwQ2JpWHoxbCtkVzQ9EiRmYzgwNTI5Yy04MDczLTRmOTMtYTg5ZC0wYWZiMzY5N2NjNzEYACAAKAAwmPXcqIEwOJHh98TnL0CR4ffE5y9KHEpjMG9obVdBVE5NWnhmVDJTZFFYOFVWZ2Ezbz1aHyId+0R5WGxYMkYrNXZrdGI1UW54ak1xNmdzOHR4VT1l7hLGmsI+AmAFEq0BCAkSqAEKHENUQTlWNzVQOHdZakVXMEk2RGdwQ3pvQjZBcz0SJDUxYmI0ZDM0LWVlYzQtNDZiZi1iNTdiLTJhYzk3M2RhYmFmMxgAIAAoADCY9dyogTA40+D3xOcvQNPg98TnL0ocdnpBS2FPVHJKem1TbG9ld0xQRDloWklRaUgwPVofIh3dc242eEoyK1MzVi9JZFIvMGRxdEExQ1BETVIwPWVYlzOkwj4CYAUSrAEIBxKnAQocOFROTENTbzhZNkU4SzVQZWY0MlZyWCtjNkc0PRIkM2NkMDRiMzctMDk0Mi00MWMyLTljNzctNjI3YzA1OTgyYmI3GAAgACgAMP/zjqzNLjjPgfjE5y9Az4H4xOcvShxMVDN2aTdMTEFyZW42MlV2dmFFbFV6d2hMZXc9Wh4iHHdvT1VkUU1EUjBaMmp5VVA1dlVmSkFSdk5tWT1ld3Bso8I+AmAFEq0BCA0SqAEKHGxTb2dIT3EyV2pMZldhZENDSGtUeVc5NkpOWT0SJDI5NDQzNjcxLTFmZjItNGU3Ny1hZjQ3LWM1NTc0ZDkxOWMzMBgAIAAoADCY9dyogTA4r6z4xOcvQK+s+MTnL0ocL0ZnUnRTU2c5V1pKdEl1RHViTTkrdWl6d3Y0PVofIh3/azQ2WVd3bVl3WE5QdTZXZHNZQUhIQVp1RGp3PWUKwwfawj4CYAUSrwEIHBKqAQocSVIyaitOdFZCMUh4UndMOGpucnZkUHFCb2RvPRIkNTcyMjgxNjktNTA1Ni00NGY3LTliN2EtYmZhNDYzNjAzMTY2GAAgACgAMO/Nj6bNLjjSgPjE5y9A0oD4xOcvShxtdFozVVBlRkdqcHlVWjZXaVZMSStMdTZQNDA9WiEiH////y96Y0NtemdhaWNkdEtNbTQzMlI0eDdYbGJFRT1ltov6VsI+AmAFErUBCDoSsAEKHHJubUlqcmpuQWFpS1ZpakxYWkZOTDBySHpHWT0SJGE0YTdkNTE1LWMzMDMtNDRhOS1iOWYyLTMwYTU4ZmM5NmIzZRgAIAAoADDdyobH1jE4wMyGx9YxQMDMhsfWMUocRktvMHF6OGU0RThtM1dWS3VZb3MrbE1mTWhjPVonIiX/////AAAABvY0dnZ2MHZmeXQrZDR6RVlIdDZibzAwdTA3RWc9ZRjq3NLCPgJgBRKvAQgYEqoBChxSbUJEOGVrTXJRVFV4NlUwbndNbk1BM0NkZjg9EiQ2ZGRlNzVmYS1kNWQxLTRkYmQtODAxMy01MzdkNzk1OWQwMWYYACAAKAAwrve8rMkuONf+98TnL0DX/vfE5y9KHEp3QktYeWVOcG5RQmh2Q1VQOHJzUUNFZ3hMZz1aISIf///0bDQyZ2JweUJ6OVpVbW5PcWtaSUtJUVdrR0EwPWXbFH00wj4CYAUSrQEIChKoAQocZnh6QjB2T29nWmhXTmtEVHVxV09NTUR6enlBPRIkMzVmYmRkNTMtMjBkZi00ZWZjLWI3MDYtZTZjMzU3ZWZhZjczGAAgACgAMJj13KiBMDjD4PfE5y9Aw+D3xOcvShxyM1YwOTlyczQwcm9ycGFiTHV5SjU4Y1JYY1k9Wh8iHe4vZ1pEaWwrQVdvNjNyWlRub2drM3pHUWZRZHM9ZViXM6TCPgJgBRK0AQg1Eq8BChxxc2RTTVdJdElaQ0oxRWlKbjBQNUg2dnk0MHM9EiRkNmEyNjI5ZS1iYTMzLTQxY2MtOWNhMS03ZDk0ZTAwMzMwM2UYACAAKAAwhdvBwKUvOLvv+sTnL0C77/rE5y9KHGNoaS9TNFd2YkJzS1laV3QycDBlK25GT0UzUT1aJiIk/////wAAAAYrdFY3dFEzRit0Lzh1WWhSSys5eDFOSCs2UWs9ZcA8MUXCPgJgBRKuAQgUEqkBChxYZ0ZPdEJuSzNtdXUvalc3YmkwRzJJd1pzbkE9EiQ5MTg2MDE5ZC03ZjU5LTRjZWYtYjdhOC01MDExZDdjNzBhZDUYACAAKAAwtdHVvMcuOP7798TnL0D++/fE5y9KHFhzcFh1d2JjaExtc0RnSWpCMit3NCs4RlJxcz1aICIe//9Cd0F3dnNUT1NpWld6c2plR0ZESlVZWXYrUUE9ZZ6WWf/CPgJgBRKwAQgdEqsBChxSQkd6RkVEK2cvd0dldmhiYkdEbXNJcVZxMEU9EiQ1NzEzMzQ2Zi02NzY4LTQwZmUtOGY2Mi1jZDJhYzc3OTJhYTgYACAAKAAwhLOX2touOJ6M+MTnL0CejPjE5y9KHEpvVVE2MHZGMjl2YXc0T2YvK1l4ZWFpVFZDUT1aIiIg////lytQeFZkK1dFRmc1d0xnQ0VmeS9KTHR1UEUvOD1lEDD/5MI+AmAFErUBCDQSsAEKHDRoR2JpcGRFSS9sWTVGTEhpTFN2Rld5dlhVbz0SJDM3MTMzYmVkLWFkMzgtNGUzNS04ZTNiLTAwNGE4NDQ1NmZhZRgAIAAoADDrva3KmC84/cz4xOcvQP3M+MTnL0ocSzZBM3UrVWFEM01GaXZ1U0NIYjc3N0wzak1VPVonIiX/////AAAABf4vYmZtUCs3SlVxTnIyMXp0eG5MeFd3d0xTbFU9ZS0uyiDCPgJgBRK1AQgpErABChx0cUtlZWlycVFnR3RrZUlPRzZiTXFJYTBrUnM9EiRmNzA5MTU5NC1hZDAxLTRmZGYtYmIwNy05OTA2MmM5NTFmMWUYACAAKAAw47e2gfwuOPSv+MTnL0D0r/jE5y9KHDg0ekxtZE9LMkU0eHJrSVJBNXBGQ2Zkb1h3RT1aJyIl/////wAAAAT3Y1UreWc0RXk1UGNoTkNTY2p0OUNMMUd1Rk1VPWVHQn+twj4CYAUSrAEIBhKnAQocTFI2UGk2NW9QblZGenE4bUM3bHN0V09IVG9ZPRIkZDc4MmU4N2UtMWRjMy00ZGVkLWIzYmItYjIwNGIyZTA2ZDZjGAAgACgAMPWs6vbyLjjipfjE5y9A4qX4xOcvShxJTGg5LzJ0dktBZndtUGVMQnRCRTQ4c1Z3T1U9Wh4iHDlrTy83MkVSRmxldDg1MU13ZHhZQkUwUHc2WT1l2K+wAsI+AmAFErQBCCQSrwEKHGhCN3pDb1crUlNPWE9TR2Rtam96bXpkZzJvRT0SJDY3OTkzNjhlLTEwYjgtNDM5Yy04MDg0LTBmMzM0MGYxMzA5MxgAIAAoADCzi6uW7C44oKH4xOcvQKCh+MTnL0ocQm5LZXZrUHZHY2ZSc1ZnY3owOEpwc0Z3bzdnPVomIiT/////AAAABFp3Z2xGbHJWTEZGWGdsVU9hWEdiUmwvcDZIdz1l9muZzMI+AmAFEq4BCBESqQEKHHprdnRMWjMrVkFwVEF4U0lMRWx3NjY0N1FURT0SJDFkODRlYjMyLTk3ZGQtNDc4YS04ZmY5LWFhMDU5Nzk2OTg2YxgAIAAoADD/wqqEwi44lPr3xOcvQJT698TnL0ocZzJrMFV6U21FNmxSRy9KaWJuaHZpVkhrZnZvPVogIh7/+2lLZ1BrY3VNcHlYWjJCbFpyWkJqSStESjhmND1lAAAAAMI+AmAFMAA4AA==",
+   "version": 1
+}
